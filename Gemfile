@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 ruby '3.0.0'
 
 gem 'pg'
-gem 'sinatra', '>= 2.2.0'
-gem 'sinatra-contrib', '>= 2.2.0'
+gem 'sinatra', '>= 2.2.3'
+gem 'sinatra-contrib', '>= 2.2.3'
 gem "bcrypt"
 gem 'sinatra-flash'
 
